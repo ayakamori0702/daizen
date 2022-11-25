@@ -41,7 +41,7 @@ ENTRYPOINT ["jupyter-lab", "--ip=0.0.0.0", "--port=8888", "--no-browser" , "--al
 
 ### **3. docker run**  
 
-作業フォルダに移動して、シェル数リプとを起動する  
+作業フォルダに移動して、シェルスクリプトを起動する  
 ```$ source run.sh```  
 ***
 ### **4. jupyterlabを立ち上げる**
